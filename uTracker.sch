@@ -2505,12 +2505,12 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <rectangle x1="2.286" y1="-0.254" x2="2.794" y2="0.254" layer="51"/>
 </package>
 <package name="ICSP_SMD_EDGE">
-<smd name="6" x="-1.905" y="0" dx="2.54" dy="1.27" layer="1" rot="R90"/>
+<smd name="6" x="-2.54" y="0" dx="2.54" dy="1.27" layer="1" rot="R90"/>
 <smd name="4" x="0" y="0" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<smd name="2" x="1.905" y="0" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<smd name="5" x="-1.905" y="0" dx="2.54" dy="1.27" layer="16" rot="R90"/>
+<smd name="2" x="2.54" y="0" dx="2.54" dy="1.27" layer="1" rot="R90"/>
+<smd name="5" x="-2.54" y="0" dx="2.54" dy="1.27" layer="16" rot="R90"/>
 <smd name="3" x="0" y="0" dx="2.54" dy="1.27" layer="16" rot="R90"/>
-<smd name="1" x="1.905" y="0" dx="2.54" dy="1.27" layer="16" rot="R90"/>
+<smd name="1" x="2.54" y="0" dx="2.54" dy="1.27" layer="16" rot="R90"/>
 </package>
 <package name="2X3">
 <wire x1="-1.27" y1="-0.635" x2="-0.635" y2="-1.27" width="0.2032" layer="21"/>
